@@ -4,7 +4,7 @@ the jigsaw toxic comment challenge is a challenge to make an Ai Model to identif
 
 ## Introduction
 
-This repository shows my intake on this task and how i was able to success in it, what accuracy i abtained for this fun challenge.
+This repository shows my intake on this task and how i was able to success in it, what accuracy i obtained for this fun challenge.
 
 ## Dataset
 
